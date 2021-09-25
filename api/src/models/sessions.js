@@ -1,9 +1,9 @@
 import {Schema, model} from 'mongoose'
 
 const sessionsSchema = new Schema({
-    nickname: String,
+    userId: String,
     prize: Number,
-    round: Object
+    rounds: Array
 })
 
 export default model('sessions', sessionsSchema)
