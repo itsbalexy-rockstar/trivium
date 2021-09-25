@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Completa la frase: 'más vale pájaron en mano que ...'",
+        "category": "very_easy",
+        "options": [
+          { "description": "cien volando", "correct": true },
+          { "description": "cien cantando", "correct": false },
+          { "description": "cien riendo", "correct": false },
+          { "description": "cien comiendo", "correct": false }
+        ]
+    },
+    {
+        "question": "¿En qué continente se encuentra Estados Unidos?",
+        "category": "very_easy",
+        "options": [
+          { "description": "Asia", "correct": false },
+          { "description": "Europa", "correct": false },
+          { "description": "América", "correct": true },
+          { "description": "África", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuántos continentes hay en el mundo?",
+        "category": "very_easy",
+        "options": [
+          { "description": "6", "correct": false },
+          { "description": "2", "correct": false },
+          { "description": "3", "correct": false },
+          { "description": "5", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué parte del cuerpo ayuda con el movimiento del mismo?",
+        "category": "very_easy",
+        "options": [
+          { "description": "uñas", "correct": false },
+          { "description": "músculos", "correct": true },
+          { "description": "piel", "correct": false },
+          { "description": "ojos", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Cuál es el tercer planeta del sistema solar?",
+        "category": "very_easy",
+        "options": [
+          { "description": "Venus", "correct": false },
+          { "description": "Tierra", "correct": true },
+          { "description": "Júpiter", "correct": false },
+          { "description": "Marte", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Quién fue Sócrates en la historia?",
+        "category": "very_easy",
+        "options": [
+          { "description": "Filósofo", "correct": true},
+          { "description": "Pintor", "correct": false },
+          { "description": "Cantante", "correct": false },
+          { "description": "Cocinero", "correct": false }
+        ]
+    },
+    {
+        "question": "La parte para ingresar información a la computadora es:",
+        "category": "very_easy",
+        "options": [
+          { "description": "Pantalla", "correct": false },
+          { "description": "Teclado", "correct": true },
+          { "description": "Cámara", "correct": false },
+          { "description": "Mouse", "correct": false }
+        ]
+    },
+    {
+        "question": "Diomedes Díaz fue un cantante de vallenato colombiano que murió en un ...",
+        "category": "very_easy",
+        "options": [
+          { "description": "accidente de moto", "correct": false },
+          { "description": "accidente de avión", "correct": false },
+          { "description": "accidente en carro", "correct": true },
+          { "description": "accidente en bicicleta", "correct": false }
+        ]
+    },
+    {
+        "question": "Amarillo, Azul y Rojo son colores ...",
+        "category": "very_easy",
+        "options": [
+          { "description": "primarios", "correct": true },
+          { "description": "secundarios", "correct": false },
+          { "description": "terciarios", "correct": false },
+          { "description": "alternativos", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuál es la capital de Colombia?",
+        "category": "very_easy",
+        "options": [
+          { "description": "Cartagena", "correct": false },
+          { "description": "Cali", "correct": false },
+          { "description": "Bogotá", "correct": true },
+          { "description": "Medellín", "correct": false }
+        ]
+    },
+    {
+        "question": "Rapunzel dijo: y mi () a cepillar y a cepillar",
+        "category": "easy",
+        "options": [
+          { "description": "cabello", "correct": true },
+          { "description": "pie", "correct": false },
+          { "description": "perro", "correct": false },
+          { "description": "gato", "correct": false }
+        ]
+    },
+    {
+        "question": "Colombia es un país que limita con",
+        "category": "easy",
+        "options": [
+          { "description": "Estados Unidos", "correct": false },
+          { "description": "Canadá", "correct": false },
+          { "description": "Argentina", "correct": false },
+          { "description": "Venezuela", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Dónde se localiza Río de Janeiro?",
+        "category": "easy",
+        "options": [
+          { "description": "Canadá", "correct": false },
+          { "description": "Brasil", "correct": true },
+          { "description": "Colombia", "correct": false },
+          { "description": "Panamá", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuál era el segundo nombre de Marilyn Monroe?",
+        "category": "easy",
+        "options": [
+          { "description": "Mandy", "correct": false },
+          { "description": "Norma", "correct": false },
+          { "description": "Cindy", "correct": false },
+          { "description": "Jeane", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Quién pintó la Mona Lisa?",
+        "category": "easy",
+        "options": [
+          { "description": "Leonardo da Vinci", "correct": true },
+          { "description": "Vincent van Gogh", "correct": false },
+          { "description": "Miguel Ángel", "correct": false },
+          { "description": "Pablo Picasso", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Quién fue Adán Y Eva?",
+        "category": "easy",
+        "options": [
+          { "description": "personajes bíblicos", "correct": true },
+          { "description": "personajes fantásticos", "correct": false },
+          { "description": "personajes reales", "correct": false },
+          { "description": "personajes ficticios", "correct": false }
+        ]
+    },
+    {
+        "question": "La derivada de x elevada al cuadrado es:",
+        "category": "easy",
+        "options": [
+          { "description": "x elevada al cubo", "correct": false },
+          { "description": "x elevada al cuadrado", "correct": false },
+          { "description": "2x", "correct": true },
+          { "description": "2x elevada al cuadrado", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuál es el símbolo químico de la plata?",
+        "category": "easy",
+        "options": [
+          { "description": "Ag", "correct": true },
+          { "description": "Pt", "correct": false },
+          { "description": "Pl", "correct": false },
+          { "description": "A", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Quién descubrió América?",
+        "category": "easy",
+        "options": [
+          { "description": "Arnulfo", "correct": false },
+          { "description": "Antonio", "correct": false },
+          { "description": "Colón", "correct": true },
+          { "description": "Bernardo", "correct": false }
+        ]
+    },
+    {
+        "question": "2*(4+5)*(8+2)-8",
+        "category": "easy",
+        "options": [
+          { "description": "9", "correct": false },
+          { "description": "20", "correct": false },
+          { "description": "36", "correct": false },
+          { "description": "172", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Quién escribió La Odisea?",
+        "category": "medium",
+        "options": [
+          { "description": "Lisa", "correct": false },
+          { "description": "Homero", "correct": true },
+          { "description": "Bart", "correct": false },
+          { "description": "Springfield", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuál es el rió más largo del mundo?",
+        "category": "medium",
+        "options": [
+          { "description": "Atrato", "correct": false },
+          { "description": "Nilo", "correct": false },
+          { "description": "Amazonas", "correct": true },
+          { "description": "Atlático", "correct": false }
+        ]
+    },
+    {
+        "question": "La actual monarca británica se llama:",
+        "category": "medium",
+        "options": [
+          { "description": "Isabel II", "correct": true },
+          { "description": "Isabel I", "correct": false },
+          { "description": "Isabel III", "correct": false },
+          { "description": "Isabel IV", "correct": false }
+        ]
+    },
+    {
+        "question": "¿El mamífero más grande del mundo es?",
+        "category": "medium",
+        "options": [
+          { "description": "Avestruz", "correct": false },
+          { "description": "Ballena", "correct": true },
+          { "description": "Cerdo", "correct": false },
+          { "description": "Perro", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuántos huesos tiene el ser humano?",
+        "category": "medium",
+        "options": [
+          { "description": "207", "correct": false },
+          { "description": "208", "correct": false },
+          { "description": "205", "correct": false },
+          { "description": "206", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Cuándo finalizó la segunda guerra mundial?",
+        "category": "medium",
+        "options": [
+          { "description": "1845", "correct": false },
+          { "description": "1945", "correct": true },
+          { "description": "1947", "correct": false },
+          { "description": "1747", "correct": false }
+        ]
+    },
+    {
+        "question": "La torre Colpatria se encuentra en:",
+        "category": "medium",
+        "options": [
+          { "description": "Francia", "correct": false },
+          { "description": "Italia", "correct": false },
+          { "description": "Barcelona", "correct": false },
+          { "description": "Colombia", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "category": "medium",
+        "options": [
+          { "description": "Negro", "correct": false },
+          { "description": "Atlántico", "correct": false },
+          { "description": "Pacífico", "correct": true },
+          { "description": "Índico", "correct": false }
+        ]
+    },
+    {
+        "question": "¿En qué año se descubrió América?",
+        "category": "medium",
+        "options": [
+          { "description": "1493", "correct": false },
+          { "description": "1492", "correct": true },
+          { "description": "1494", "correct": false },
+          { "description": "1491", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuál es el país más grande del mundo?",
+        "category": "medium",
+        "options": [
+          { "description": "China", "correct": false },
+          { "description": "India", "correct": false },
+          { "description": "África", "correct": false },
+          { "description": "Rusia", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Cuánto es el 4% de 25?",
+        "category": "hard",
+        "options": [
+          { "description": "4", "correct": false },
+          { "description": "25", "correct": false },
+          { "description": "1", "correct": true },
+          { "description": "100", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué país tiene forma de bota?",
+        "category": "hard",
+        "options": [
+          { "description": "Italia", "correct": true },
+          { "description": "Francia", "correct": false },
+          { "description": "Bélgica", "correct": false },
+          { "description": "Alemania", "correct": false }
+        ]
+    },
+    {
+        "question": "La moneda oficial de Reino Unido es:",
+        "category": "hard",
+        "options": [
+          { "description": "bolívar", "correct": false },
+          { "description": "peso", "correct": false },
+          { "description": "dólar", "correct": false },
+          { "description": "libra", "correct": true }
+        ]
+    },
+    {
+        "question": "¿En qué parte del cuerpo se produce la insulina?",
+        "category": "hard",
+        "options": [
+          { "description": "Cerebro", "correct": false },
+          { "description": "Páncreas", "correct": true },
+          { "description": "Hígado", "correct": false },
+          { "description": "Corazón", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cómo se llama el himno nacional de Francia?",
+        "category": "hard",
+        "options": [
+          { "description": "La Marsellesa", "correct": true },
+          { "description": "La Cantella", "correct": false },
+          { "description": "La Morensella", "correct": false },
+          { "description": "La Cinderella", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Quién va a la cárcel?",
+        "category": "hard",
+        "options": [
+          { "description": "el inputado", "correct": false },
+          { "description": "el revisado", "correct": false },
+          { "description": "el acusado", "correct": false },
+          { "description": "el condenado", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Cuál fue el primer metal que empleó el hombre?",
+        "category": "hard",
+        "options": [
+          { "description": "Plata", "correct": false },
+          { "description": "Cobre", "correct": true },
+          { "description": "Oro", "correct": false },
+          { "description": "Hierro", "correct": false }
+        ]
+    },
+    {
+        "question": "Instrumento óptico que permite visualizar astros ...",
+        "category": "hard",
+        "options": [
+          { "description": "ostetoscopio", "correct": false },
+          { "description": "endoscopio", "correct": false },
+          { "description": "inoscopio", "correct": false },
+          { "description": "telescopio", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Cuál es el MCM de 15, 35 y 55?",
+        "category": "hard",
+        "options": [
+          { "description": "5511", "correct": false },
+          { "description": "1155", "correct": true },
+          { "description": "1515", "correct": false },
+          { "description": "5151", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Quién ganó el mundial del 2014?",
+        "category": "hard",
+        "options": [
+          { "description": "Inglaterra", "correct": false },
+          { "description": "Francia", "correct": false },
+          { "description": "Alemania", "correct": true },
+          { "description": "Brasil", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué veterano músico es la canción 'Tears in Heaven'?",
+        "category": "very_hard",
+        "options": [
+          { "description": "Phill Jensen", "correct": false },
+          { "description": "Eric Clapton", "correct": true },
+          { "description": "John Mushon", "correct": false },
+          { "description": "Paul Walto", "correct": false }
+        ]
+    },
+    {
+        "question": "La campana de Gauss está asociada a ...",
+        "category": "very_hard",
+        "options": [
+          { "description": "Cálculo de funciones", "correct": false },
+          { "description": "Cálculo de integrales", "correct": false },
+          { "description": "Cálculo de vectores", "correct": false },
+          { "description": "Cálculo de probabilidades", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Cómo se llama la energía contenida en el núcleo de los átomos?",
+        "category": "very_hard",
+        "options": [
+          { "description": "energía buclear", "correct": false },
+          { "description": "energía nuclear", "correct": true },
+          { "description": "energía atómica", "correct": false },
+          { "description": "energía solar", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuál es la capital de Croacia?",
+        "category": "very_hard",
+        "options": [
+          { "description": "Sogred", "correct": false },
+          { "description": "Inted", "correct": false },
+          { "description": "Degred", "correct": false },
+          { "description": "Zagreb", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Cuál es la capital de Dinamarca?",
+        "category": "very_hard",
+        "options": [
+          { "description": "Ominhague", "correct": false },
+          { "description": "Copenhague", "correct": true },
+          { "description": "Joninhague", "correct": false },
+          { "description": "Restinhague", "correct": false }
+        ]
+    },
+    {
+        "question": "¿En qué país se usó la primera bomba atómica en combate?",
+        "category": "very_hard",
+        "options": [
+          { "description": "Estados Unidos", "correct": false },
+          { "description": "Hiroshima", "correct": true },
+          { "description": "China", "correct": false },
+          { "description": "Rusia", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Quién gobernó España entre el año 2011 y 2018?",
+        "category": "very_hard",
+        "options": [
+          { "description": "Mariano Tajoy", "correct": false },
+          { "description": "Mariano Kajoy", "correct": false },
+          { "description": "Mariano Pajoy", "correct": false },
+          { "description": "Mariano Rajoy", "correct": true }
+        ]
+    },
+    {
+        "question": "El metal más caro del mundo es:",
+        "category": "very_hard",
+        "options": [
+          { "description": "oro", "correct": false },
+          { "description": "rodio", "correct": true },
+          { "description": "plata", "correct": false },
+          { "description": "diamante", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuántos años tiene un lustro?",
+        "category": "very_hard",
+        "options": [
+          { "description": "15", "correct": false },
+          { "description": "10", "correct": false },
+          { "description": "5", "correct": true },
+          { "description": "20", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué instrumento tocaba Paco de Lucía?",
+        "category": "very_hard",
+        "options": [
+          { "description": "tambor", "correct": false },
+          { "description": "guitarra", "correct": true },
+          { "description": "piano", "correct": false },
+          { "description": "violín", "correct": false }
+        ]
+    }
+]
