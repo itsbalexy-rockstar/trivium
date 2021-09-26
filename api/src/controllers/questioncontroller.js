@@ -14,7 +14,7 @@ export const getQuestion = (req, res) => {
     return res.status(200).json({status: 200, data: {question}})
 }
 
-export const createSessions = async (req, res) => {
+export const createSession = async (req, res) => {
     const { nickname, prize, round } = req.body
     const newSession = new sessions([nickname, prize, round])
     const newSessionSaved = await newSession.save()

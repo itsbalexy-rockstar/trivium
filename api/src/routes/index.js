@@ -4,7 +4,7 @@ import * as questioncontroller from '../controllers/questioncontroller'
 import * as sessionscontroller from '../controllers/sessionscontroller'
 
 router.get('/questions/:categoryName', questioncontroller.getQuestion);
-router.post('/sessions', sessionscontroller.createSessions);
-router.patch('/sessions', sessionscontroller.patchSessions)
+router.post('/sessions', sessionscontroller.createSession);
+router.patch('/sessions/:sessionId', sessionscontroller.updateSession)
 
 export default router;
